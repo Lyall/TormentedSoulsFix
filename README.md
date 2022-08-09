@@ -33,6 +33,9 @@ Please report any issues you see and I'll do my best to fix them.
 | ![ezgif-2-36a8ff90e6](https://user-images.githubusercontent.com/695941/183559690-e0c2dbbe-9c6e-4ab5-852a-fcd46723bf25.gif) |
 |:--:|
 | Ultrawide pillarbox removal. | 
+| ![ezgif-2-95901ccc9c](https://user-images.githubusercontent.com/695941/183560702-573c9980-fb0c-4a01-99f0-0c95959e50ba.gif) |
+|:--:|
+| Vert+ FOV at narrower than 16:9. | 
 
 ## Credits
 - [BepinEx](https://github.com/BepInEx/BepInEx) is licensed under the GNU Lesser General Public License v2.1.
