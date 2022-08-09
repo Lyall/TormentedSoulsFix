@@ -30,7 +30,9 @@ This BepInEx plugin for the game Tormented Souls adds support for:
 Please report any issues you see and I'll do my best to fix them.
 
 ## Screenshots
-![ezgif-2-36a8ff90e6](https://user-images.githubusercontent.com/695941/183559690-e0c2dbbe-9c6e-4ab5-852a-fcd46723bf25.gif)
+| ![ezgif-2-36a8ff90e6](https://user-images.githubusercontent.com/695941/183559690-e0c2dbbe-9c6e-4ab5-852a-fcd46723bf25.gif) |
+|:--:|
+| Ultrawide pillarbox removal. | 
 
 ## Credits
 - [BepinEx](https://github.com/BepInEx/BepInEx) is licensed under the GNU Lesser General Public License v2.1.
