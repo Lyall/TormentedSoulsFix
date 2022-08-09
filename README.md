@@ -8,6 +8,7 @@ This BepInEx plugin for the game Tormented Souls adds support for:
 - Increasing the FOV.
 - Vert+ FOV at aspect ratios narrower than 16:9 (such as the Steam Deck).
 - Skipping the intro logos.
+- Increasing the physics update rate.
 
 ## Installation
 - Grab the latest release of TormentedSoulsFix from [here.](https://github.com/Lyall/TormentedSoulsFix/releases)
