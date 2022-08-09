@@ -55,8 +55,8 @@ namespace TormentedSoulsFix
             // Update Rate
             fUpdateRate = Config.Bind("Physics Update Rate",
                                 "PhysicsUpdateRate",
-                                (float)0f, // 0 = Auto (Set to refresh rate) || Default = 50
-                                new ConfigDescription("Set desired update rate. This will improve camera smoothness in particular. \n 0 = Auto (Set to refresh rate). Game default = 50",
+                                (float)0f, // 0 = Auto (Set to refresh rate)
+                                new ConfigDescription("Set desired update rate. This will improve camera smoothness in particular. \n 0 = Auto (Set to refresh rate).",
                                 new AcceptableValueRange<float>(0f, 5000f)));
 
             // Intro Skip
