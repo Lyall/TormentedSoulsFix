@@ -1,3 +1,6 @@
+# NOTICE
+## This fix has been archived as it no longer works on the latest update.<br />I recommend using this much better fix [avaiable here](https://github.com/p1xel8ted/UltrawideFixes/releases/tag/TormentedSouls) by [p1xel8ted](https://github.com/p1xel8ted).
+
 # Tormented Souls Fix
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01UAI9)</br>
 [![Github All Releases](https://img.shields.io/github/downloads/Lyall/TormentedSoulsFix/total.svg)](https://github.com/Lyall/TormentedSoulsFix/releases)
